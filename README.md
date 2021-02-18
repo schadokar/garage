@@ -12,6 +12,13 @@ Get a free domain name for testing from [freennom](https://www.freenom.com/).
 - **ps -aux**: To list all the running process.
 - **kill -9 pid**: To kill a process.
 
+### Install nvm on linux
+```
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
+OR
+wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
+```
+
 ## Nginx
 
 - [How To Secure Nginx with Let's Encrypt on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-18-04)
