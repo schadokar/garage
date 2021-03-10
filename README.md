@@ -24,3 +24,27 @@ wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
 - [How To Secure Nginx with Let's Encrypt on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-18-04)
 - [How To Install Nginx on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-18-04)
   - Adjusting firewall, Setting Up Server Blocks
+
+## AWS
+
+### Mount Disk to Linux
+
+Use below command to check the attached disk it can be mount/unmounted.
+```
+sudo lsblk
+```
+
+Use the lsblk -f command to get information about all of the devices attached to the instance. 
+```
+sudo lsblk -f
+```
+
+Create a directory to map/mount the disk
+```
+sudo mkdir /data
+```
+
+Use the following command to mount the volume at the directory you created in the previous step. 
+```
+sudo mount /dev/xvdf /data
+```
