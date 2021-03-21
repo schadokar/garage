@@ -6,3 +6,4 @@ These websites I found which offers great themes either free or on low cost.
 - [creative tim](https://www.creative-tim.com/)
 - [publii cms](https://marketplace.getpublii.com/)
 - [forestry cms](https://forestry.io/)
+- [editorial theme](https://demo.getpublii.com/themes/editorial/brown/)
