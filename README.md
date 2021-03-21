@@ -48,3 +48,7 @@ Use the following command to mount the volume at the directory you created in th
 ```
 sudo mount /dev/xvdf /data
 ```
+
+## Ebook Editor
+
+- [Moopato](https://moopato.com/)
