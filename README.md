@@ -52,3 +52,6 @@ sudo mount /dev/xvdf /data
 ## Ebook Editor
 
 - [Moopato](https://moopato.com/)
+
+## Newsletter Services
+- Revue: Unlimited Subscribers for free tier.
