@@ -49,6 +49,8 @@ Use the following command to mount the volume at the directory you created in th
 sudo mount /dev/xvdf /data
 ```
 
+[Make an Amazon EBS volume available for use on Linux](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-using-volumes.html)
+
 ## Ebook Editor
 
 - [Moopato](https://moopato.com/)
